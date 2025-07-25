@@ -1,35 +1,27 @@
-#My Portfolio
-Welcome to my personal portfolio website! This platform showcases my skills, projects, and journey as an aspiring full-stack developer.
+# Sabbina Ritvika - Student Portfolio
 
-#✨ Overview
-This portfolio is my digital story. I'm a student, bringing web ideas to life with full-stack skills. It's designed to be a clear and engaging representation of my capabilities in web development, machine learning, and leadership.
+Welcome to my personal portfolio website! This project serves as a comprehensive showcase of my skills, projects, and experiences as an aspiring Full-Stack Developer. Designed with a blend of professionalism and personal aesthetic, it aims to provide a memorable and engaging experience.
 
-#🚀 Features
-Responsive Design: Optimized for seamless viewing across various devices (desktop, tablet, mobile).
+## ✨ Features
 
-Smooth Navigation: Intuitive sticky navigation with smooth scrolling to different sections.
+* **Responsive Design:** Optimized for seamless viewing across various devices (desktops, tablets, and mobile phones).
+* **Smooth Navigation:** Intuitive sticky header with smooth-scrolling links for an enhanced user experience.
+* **Dynamic Content:** Content sections include About Me, Skills, Projects, Education & Certifications, Leadership & Extracurricular Activities, and Contact.
+* **Unique Aesthetic:** Blends professional styling with a personal touch, utilizing `Dancing Script` for headings and `Indie Flower` for main content paragraphs to create a distinctive, inviting feel.
+* **Interactive Contact Form:** A functional contact form with a thank-you message and automatic redirection to the home section upon submission.
+* **Modern CSS:** Utilizes CSS variables, flexbox, and grid for a clean, modular, and maintainable stylesheet.
+* **Professional Timeline:** The Education section features a clear and visually appealing timeline format.
 
-Interactive Contact Form: A user-friendly form to get in touch, with a thank-you message and automatic redirection to the top.
+## 🚀 Technologies Used
 
-Dynamic Content Sections: Dedicated sections for:
+* **HTML5:** For structuring the content.
+* **CSS3:** For styling and layout, including responsive design and custom properties.
+* **JavaScript (Vanilla JS):** For interactive elements, smooth scrolling, and form handling.
+* **Google Fonts:**
+    * `Poppins`: For primary professional text.
+    * `Dancing Script`: For headings and the logo, adding a personal, elegant touch.
+    * `Indie Flower`: For main content paragraphs, providing a unique handwritten feel.
+* **Font Awesome:** For various icons used across the site.
+* **Figma:** Used for the initial design and wireframing of the original "letter-themed" portfolio concept.
 
-About Me: A personal introduction and background.
-
-Skills Summary: Highlighted technical and soft skills.
-
-Projects: Detailed descriptions of key projects, including technologies used.
-
-Education & Certifications: A timeline of academic achievements and professional certifications.
-
-Leadership & Extracurricular: Showcasing leadership roles and activities.
-
-Clean & Professional Aesthetic: A modern design with a subtle personal touch, using a consistent color palette and carefully chosen fonts.
-
-#🛠️ Technologies Used
-Frontend: HTML5, CSS3, JavaScript
-
-Styling: Custom CSS with Google Fonts (Poppins, Dancing Script, Indie Flower), Font Awesome for icons.
-
-Design Tool: Figma (for initial design concepts)
-
-Project Specifics (as mentioned in portfolio): React.js, Node.js, Express.js, MongoDB, Python (for ML projects)
+## 📂 Project Structure
