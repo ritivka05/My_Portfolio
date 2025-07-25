@@ -1,10 +1,10 @@
-My Portfolio
+#My Portfolio
 Welcome to my personal portfolio website! This platform showcases my skills, projects, and journey as an aspiring full-stack developer.
 
-✨ Overview
+#✨ Overview
 This portfolio is my digital story. I'm a student, bringing web ideas to life with full-stack skills. It's designed to be a clear and engaging representation of my capabilities in web development, machine learning, and leadership.
 
-🚀 Features
+#🚀 Features
 Responsive Design: Optimized for seamless viewing across various devices (desktop, tablet, mobile).
 
 Smooth Navigation: Intuitive sticky navigation with smooth scrolling to different sections.
@@ -25,7 +25,7 @@ Leadership & Extracurricular: Showcasing leadership roles and activities.
 
 Clean & Professional Aesthetic: A modern design with a subtle personal touch, using a consistent color palette and carefully chosen fonts.
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript
 
 Styling: Custom CSS with Google Fonts (Poppins, Dancing Script, Indie Flower), Font Awesome for icons.
