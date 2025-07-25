@@ -24,4 +24,3 @@ Welcome to my personal portfolio website! This project serves as a comprehensive
 * **Font Awesome:** For various icons used across the site.
 * **Figma:** Used for the initial design and wireframing of the original "letter-themed" portfolio concept.
 
-## 📂 Project Structure
